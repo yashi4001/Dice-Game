@@ -1,0 +1,21 @@
+html{
+    background-color: #5d5b6a;
+}
+h1{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 500%;
+    color: #75daad;
+    border-color: black solid;
+}
+table .player{
+    font-size: 250%;
+    color: #75daad;
+    border-color: black solid;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
